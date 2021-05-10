@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    font-family:fantasy;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#book{
+font-family: inherit;
+text-align: center;
+box-shadow: 5px 5px 10px yellow;
+background:aquamarine;
+border-color: black;
+}
